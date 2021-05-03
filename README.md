@@ -4,7 +4,7 @@
   width="400" height="100" align="right">
 > Use the best tools and practices in 2021 🔥
 
-## Installation
+ Installation
 **NPM**
 ```sh
 npm install 
@@ -23,3 +23,6 @@ npm run start
 <div>
   <a href="https://babeljs.io/docs/en/" target="_blank" rel="nofollow">Babel</a>
 </div>
+
+
+## Suggested tools
