@@ -15,13 +15,13 @@ npm run start
 
 ## Documentation
 <div>
-  <a href="https://es.reactjs.org/docs/getting-started.html" target="_blank" rel="nofollow">React is a JavaScript library for building user interfaces</a>
+  <a href="https://es.reactjs.org/docs/getting-started.html" target="_blank" rel="nofollow">React is a JavaScript library for building user interfaces.</a>
 </div>
 <div>
-  <a href="https://webpack.js.org/concepts/" target="_blank" rel="nofollow">Webpack is a static module bundler for modern JavaScript applications</a>
+  <a href="https://webpack.js.org/concepts/" target="_blank" rel="nofollow">Webpack is a static module bundler for modern JavaScript applications.</a>
 </div>
 <div>
-  <a href="https://babeljs.io/docs/en/" target="_blank" rel="nofollow">Babel is a JavaScript compiler</a>
+  <a href="https://babeljs.io/docs/en/" target="_blank" rel="nofollow">Babel is a JavaScript compiler.</a>
 </div>
 
 
@@ -31,4 +31,10 @@ npm run start
 </div>
 <div>
   <a href="https://necolas.github.io/normalize.css/" target="_blank" rel="nofollow">Normalize.css</a>
+</div>
+<div>
+  <a href="https://purecss.io/" target="_blank" rel="nofollow">Pure.css</a>
+</div>
+<div>
+  <a href="https://fontawesome.com/" target="_blank" rel="nofollow">Fontawesome</a>
 </div>
