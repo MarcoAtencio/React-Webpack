@@ -9,6 +9,9 @@
 ```sh
 npm install 
 ```
+```sh
+npm run start 
+```
 
 ## Documentation
 <div>
