@@ -1,6 +1,4 @@
-import React from 'react';
-
 export default () => {
-    return <h2>hola</h2>
+    return <h2>hola mundo</h2>
 }
   
