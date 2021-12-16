@@ -1,4 +1,3 @@
 export default () => {
-    return <h2>hola mundo</h2>
-}
-  
+  return <h2>hola mundo2</h2>;
+};
